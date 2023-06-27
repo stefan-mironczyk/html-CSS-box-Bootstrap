@@ -1,0 +1,7 @@
+.article_01 {
+  width: 230px;
+  height: 215px;
+  background-color: antiquewhite;
+  border: black 1px solid;
+  /* overflow: hidden; */
+}
