@@ -1,0 +1,26 @@
+body {
+  min-width: 720px;
+  max-width: 60em;
+  margin: 0 auto;
+  background-color: #efefef; /* Neutral */
+  font-family: Georgia; 
+}
+.table {
+  display: table;
+}
+.row {
+  display: table-row;
+}
+.article {
+  border: 1px solid black;
+  padding: 1em;
+  width: 33.3333%;
+  background-color: lightgray;
+  display: table-cell;
+}
+.bottom {
+  vertical-align: bottom;
+}
+.middle {
+  vertical-align: middle;
+}
